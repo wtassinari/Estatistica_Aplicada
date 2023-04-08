@@ -51,7 +51,7 @@ knitr::include_graphics('rural3.jpg')
 
 email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Aplicada à Economia e Administração - 2023-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo da disciplina de Estatística Aplicada à Economia e Administração - 2023-1 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -107,23 +107,23 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 18/05/2023 
+- **P1:** 18/05/2023 
 
 \vspace{0.3mm}
 
-- **Segunda chamada referente a P1** – 30/05/2023
+- **Segunda chamada referente a P1:** 30/05/2023
 
 \vspace{0.3mm}
 
-- **P2** – 18/07/2023
+- **P2:** 18/07/2023
 
 \vspace{0.3mm}
 
-- **Segunda chamada referente a P2** – 25/057/2023
+- **Segunda chamada referente a P2:** 25/057/2023
 
 \vspace{0.3mm}
 
-- **Optativa** – 01/08/2023
+- **Optativa:** 01/08/2023
 
 \vspace{0.3mm}
 
@@ -170,18 +170,23 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 
 ### **Apresentação da disciplina**
 
-- Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
+- Nessa aula será apresentado o conteúdo da disciplina e a dinâmica das aulas. 
 
-#### **Introdução a Inferência Estatística e Conceitos de Amostragem:**
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Apresentação do curso | [link](https://drive.google.com/file/d/1dnI5u_fDil2db2t1RffyYpfJG55G0SQs/view?usp=share_link)   |
 
-- Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística, são eles: introdução aos somatórios, cálculo do fatorial e análise combinatória. 
+### **Introdução a Inferência Estatística e Conceitos de Amostragem**
+
+- Nessa aula serão apresentados alguns conceitos fundamentais a respeito da inferência estatística e algumas técnicas de amostragem.
 
 
 
 | Atividades |                Tipo de Atividade                            | Links|
 | :---------: | ---------------------------------------------------------- | :---: |
-| Slides | Slides sobre a Aula 1 | [link]()   |
-| Exercícios | Lista de exercícios sobre a Aula 1 |  [link]()  |
+| Aula | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/168OWiNgU7SnA5zFjczsJv2A_c92agMKh/view?usp=share_link)   |
+| Tabela | Tabela da Distribuição Normal Padronizada | [link](https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link)   |
+<!-- | Exercícios | Lista de exercícios sobre a Aula 1 |  [link]()  | -->
 <!-- | Script | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  | -->
 
 
