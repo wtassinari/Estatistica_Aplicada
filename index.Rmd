@@ -167,9 +167,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 
 - [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
-# Conteúdo das aulas
-
-### **Apresentação da disciplina**
+# **Apresentação da disciplina**
 
 - Nessa aula será apresentado o conteúdo da disciplina e a dinâmica das aulas. 
 
@@ -177,7 +175,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Apresentação do curso | [link](https://drive.google.com/file/d/1dnI5u_fDil2db2t1RffyYpfJG55G0SQs/view?usp=share_link)   |
 
-### **Introdução a Inferência Estatística e Conceitos de Amostragem**
+# **Introdução a Inferência Estatística e Conceitos de Amostragem**
 
 - Nessa aula serão apresentados alguns conceitos fundamentais a respeito da inferência estatística e algumas técnicas de amostragem.
 
@@ -187,6 +185,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/168OWiNgU7SnA5zFjczsJv2A_c92agMKh/view?usp=share_link)   |
 | Tabela | Tabela da Distribuição Normal Padronizada | [link](https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link)   |
+| Script | Script do R com a resolução dos exercícios da Aula 1 | [link](https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link)|
 <!-- | Exercícios | Lista de exercícios sobre a Aula 1 |  [link]()  | -->
 <!-- | Script | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  | -->
 
