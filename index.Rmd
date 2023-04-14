@@ -64,18 +64,6 @@ Esta página representa o repositório do conteúdo da disciplina de Estatístic
 - O curso será no formato presencial.
 
 
-<!-- ## Sobre o pacote estatístico R  -->
-
-<!-- - É **FACULTAIVO** a utilização do **pacote estatístico R** utilizando a interface gráfica do **RStudio**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN ([link](https://cran.r-project.org/)). O pacote estatístico R é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados. -->
-
-<!-- \vspace{0.3mm} -->
-
-<!-- - Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** ([link](https://rstudio.com/products/rstudio/)), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar. -->
-
-<!-- \vspace{0.3mm} -->
-
-<!-- - Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler) -->
-
 # Algumas Considerações
 
 ### IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
@@ -150,21 +138,34 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 - SALVATORE, DOMINICK. Estatística e Econometria. McGraw-Hill. 1982
 
 
-<!-- # Instalando o pacote estatístico R + sua interface gráfica RStudio -->
+# Sobre o pacote estatístico R
 
-<!-- - [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U) -->
+- É **FACULTAIVO** a utilização do **pacote estatístico R** utilizando a interface gráfica do **RStudio**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN ([link](https://cran.r-project.org/)). O pacote estatístico R é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
 
-<!-- \vspace{0.3mm} -->
+\vspace{0.3mm}
 
-<!-- - [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk) -->
+- Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** ([link](https://rstudio.com/products/rstudio/)), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
 
-<!-- \vspace{0.3mm} -->
+\vspace{0.3mm}
 
-<!-- - [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s) -->
+- Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
 
-<!-- \vspace{0.3mm} -->
 
-<!-- - [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg) -->
+## Instalando o pacote estatístico R + sua interface gráfica RStudio
+
+- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
 # Conteúdo das aulas
 
