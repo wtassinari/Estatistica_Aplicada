@@ -185,9 +185,8 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/168OWiNgU7SnA5zFjczsJv2A_c92agMKh/view?usp=share_link)   |
 | Tabela | Tabela da Distribuição Normal Padronizada | [link](https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link)   |
-| Script | Script do R com a resolução dos exercícios da Aula 1 | [link](https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link)|
-<!-- | Exercícios | Lista de exercícios sobre a Aula 1 |  [link]()  | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  | -->
+| Script | Script em R dos exercícios dos slides da Aula 1 | [link](https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link)|
+| Exercícios | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1kHQrHe6g_ZwCrEfzsHhyr1dMxtrWfYbK/view?usp=share_link)  |
 
 
 
