@@ -175,7 +175,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Apresentação do curso | [link](https://drive.google.com/file/d/1dnI5u_fDil2db2t1RffyYpfJG55G0SQs/view?usp=share_link)   |
 
-# **Introdução a Inferência Estatística e Conceitos de Amostragem**
+# **Aula 1:** Introdução a Inferência Estatística e Conceitos de Amostragem
 
 - Nessa aula serão apresentados alguns conceitos fundamentais a respeito da inferência estatística e algumas técnicas de amostragem.
 
@@ -187,6 +187,18 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Tabela | Tabela da Distribuição Normal Padronizada | [link](https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link)   |
 | Script | Script em R dos exercícios dos slides da Aula 1 | [link](https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link)|
 | Exercícios | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1kHQrHe6g_ZwCrEfzsHhyr1dMxtrWfYbK/view?usp=share_link)  |
+
+# **Aula 2:** Intervalos de Confiança
+
+- Nessa aula serão apresentados conceitos básicos sobre os intervalos de confiança para a média populacional.
+
+
+
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1nvMw6MCmRCVZQ85NabGUXHC7GwVAOgBW/view?usp=share_link)   |
+| Tabela | Tabela da Distribuição t-student | [link](https://drive.google.com/file/d/1Gp_tlrN-FoziyXP6UZ2u0--4Y-1yLwJf/view?usp=share_link)   |
+| Exercícios | Lista de exercícios sobre a Aula 2 |  [link](https://drive.google.com/file/d/1HG2Tw_AX4QLQIzulTf1nJeQlPfU4HxuJ/view?usp=share_link)  |
 
 
 
