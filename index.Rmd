@@ -93,9 +93,9 @@ Esta página representa o repositório do conteúdo da disciplina de Estatístic
 - Análise das séries temporais
 
 
-# Avaliação das Disciplinas
+# Avaliação da Disciplina
 
-- **P1:** 18/05/2023 
+- **P1:** 25/05/2023 
 
 \vspace{0.3mm}
 
