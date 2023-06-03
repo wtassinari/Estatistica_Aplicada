@@ -224,5 +224,14 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Tabela | Tabela da Distribuição de Tukey| [link](https://drive.google.com/file/d/194P1kg-Ykd_7uBwZ-PEU9kAaQ6gXGdXP/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 4 |  [link](https://drive.google.com/file/d/1Uy2qWsTWfwYTDdYkJ3wqUaUbULyDcuJD/view?usp=sharing)  |
 
+# **Aula 5:** Correlação
+
+- Nessa aula será apresentada o coeficiente de correlção linear de *Pearson* e como podemos testar via TH se de fato a correlçao encontrada é estatísticamente significativa.
+
+
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1tqqQpLW_f68TKJjYFLJ78Y03OwcLnPAd/view?usp=sharing)   |
+| Exercícios | Lista de exercícios sobre a Aula 5 |  [link](https://drive.google.com/file/d/1PhfvTRILdzafUmQE1X2obFdHqZDw2sYf/view?usp=sharing)  |
 
 
