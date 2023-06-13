@@ -224,7 +224,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Tabela | Tabela da Distribuição de Tukey| [link](https://drive.google.com/file/d/194P1kg-Ykd_7uBwZ-PEU9kAaQ6gXGdXP/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 4 |  [link](https://drive.google.com/file/d/1Uy2qWsTWfwYTDdYkJ3wqUaUbULyDcuJD/view?usp=sharing)  |
 
-# **Aula 5:** Correlação
+# **Aula 5:** Correlação Linear
 
 - Nessa aula será apresentada o coeficiente de correlção linear de *Pearson* e como podemos testar via TH se de fato a correlçao encontrada é estatísticamente significativa.
 
@@ -233,5 +233,16 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1tqqQpLW_f68TKJjYFLJ78Y03OwcLnPAd/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 5 |  [link](https://drive.google.com/file/d/1PhfvTRILdzafUmQE1X2obFdHqZDw2sYf/view?usp=sharing)  |
+
+
+# **Aula 6:** Regressão Linear Simples
+
+- Nessa aula será apresentada o modelo de regressão linear simples e algumas medidas para verificar a qualidade do ajuste
+
+
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1SJnUgxPwTXbFD1uHbg9FWUJYWpStYH1j/view?usp=sharing)   |
+| Exercícios | Lista de exercícios sobre a Aula 6 |  [link](https://drive.google.com/file/d/1EQG-GydLad1VzdgU4ejcAiPEtzpNkL6I/view?usp=sharing)  |
 
 
