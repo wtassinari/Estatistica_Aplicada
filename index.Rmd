@@ -245,4 +245,15 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Aula | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1SJnUgxPwTXbFD1uHbg9FWUJYWpStYH1j/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 6 |  [link](https://drive.google.com/file/d/1EQG-GydLad1VzdgU4ejcAiPEtzpNkL6I/view?usp=sharing)  |
 
+# **Aula 7:** Números-Índice
+
+- Nessa aula será introduzido o conceito dos números-índice simples e compostos.
+
+
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1A58yniLasfeTvUwza62eiIV1iRebUX6n/view?usp=sharing)   |
+| Exercícios | Lista de exercícios sobre a Aula 7 |  [link](https://drive.google.com/file/d/1wkfVKPOwTzElTB7qiRUESKAr3H5Ch6Xo/view?usp=sharing)  |
+
+
 
