@@ -93,7 +93,7 @@ Esta página representa o repositório do conteúdo da disciplina de Estatístic
 - Análise das séries temporais
 
 
-# Avaliação da Disciplina
+# Cronograma das Avaliações 
 
 - **P1:** 25/05/2023 
 
@@ -107,7 +107,7 @@ Esta página representa o repositório do conteúdo da disciplina de Estatístic
 
 \vspace{0.3mm}
 
-- **Segunda chamada referente a P2:** 25/057/2023
+- **Segunda chamada referente a P2:** 25/07/2023
 
 \vspace{0.3mm}
 
