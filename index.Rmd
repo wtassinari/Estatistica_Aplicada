@@ -140,7 +140,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 
 # Sobre o pacote estatístico R
 
-- É **FACULTAIVO** a utilização do **pacote estatístico R** utilizando a interface gráfica do **RStudio**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN ([link](https://cran.r-project.org/)). O pacote estatístico R é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
+- É **FACULTATIVO** a utilização do **pacote estatístico R** utilizando a interface gráfica do **RStudio**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN ([link](https://cran.r-project.org/)). O pacote estatístico R é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
 
 \vspace{0.3mm}
 
@@ -167,6 +167,12 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 
 - [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
+# Sobre o programa Python
+
+- Também é **FACULTATIVO** a utilização do **programa Python**
+
+- [Vídeo mostrando como utilizar o Python via Google Colab](https://www.youtube.com/watch?v=b8O37dWq2f8)
+
 # **Apresentação da disciplina**
 
 - Nessa aula será apresentado o conteúdo da disciplina e a dinâmica das aulas. 
@@ -186,6 +192,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Aula | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/168OWiNgU7SnA5zFjczsJv2A_c92agMKh/view?usp=share_link)   |
 | Tabela | Tabela da Distribuição Normal Padronizada | [link](https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link)   |
 | Script | Script em R dos exercícios dos slides da Aula 1 | [link](https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link)|
+| Script | Script em Python dos exercícios dos slides da Aula 1 | [link](https://drive.google.com/file/d/1EfeD8K0_3aOMJUciuRUKZuO--zK2vcRj/view?usp=sharing)|
 | Exercícios | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1kHQrHe6g_ZwCrEfzsHhyr1dMxtrWfYbK/view?usp=share_link)  |
 
 # **Aula 2:** Intervalos de Confiança
