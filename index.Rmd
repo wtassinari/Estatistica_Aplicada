@@ -51,13 +51,13 @@ knitr::include_graphics('rural3.jpg')
 
 email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 
-Esta página representa o repositório do conteúdo da disciplina de Estatística Aplicada à Economia e Administração - 2023-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo da disciplina de Estatística Aplicada à Economia e Administração - 2024-1 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
 ## Objetivo das Disciplinas 
 
-- Proporcionar a compreensão do processo de tratamento dos dados via a aplicação de métodos estatísticos.
+- Proporcionar a compreensão do processo de tratamento dos dados via a aplicação dos principais métodos estatísticos aplicados as áreas de administração e economia.
 
 ## Formato das Disciplinas
 
