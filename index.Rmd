@@ -205,6 +205,8 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1nvMw6MCmRCVZQ85NabGUXHC7GwVAOgBW/view?usp=share_link)   |
 | Tabela | Tabela da Distribuição t-student | [link](https://drive.google.com/file/d/1Gp_tlrN-FoziyXP6UZ2u0--4Y-1yLwJf/view?usp=share_link)   |
+| Script | Script em R dos exemplos dos slides da Aula 2 | [link](https://drive.google.com/file/d/1ozBONCMdww0X_5CUWQA9JkgfzREBplWV/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 2 | [link](https://drive.google.com/file/d/1wbRHJdLvxG1meL4y27kXNyaIL1Lo2TkC/view?usp=sharing)|
 | Exercícios | Lista de exercícios sobre a Aula 2 |  [link](https://drive.google.com/file/d/1HG2Tw_AX4QLQIzulTf1nJeQlPfU4HxuJ/view?usp=share_link)  |
 
 # **Aula 3:** Testes de Hipótese
@@ -215,6 +217,8 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1PX_vaAQhQjT7A09UVqZYPxCMJfQb9rdY/view?usp=share_link)   |
 | Tabela | Tabela da Distribuição Qui-Quadrado | [link](https://drive.google.com/file/d/1uBXwM2xwX2Nu4zrYekBFwNY1LpMLxeBa/view?usp=share_link)   |
+| Script | Script em R dos exemplos dos slides da Aula 3 | [link](https://drive.google.com/file/d/1vek6eue6K7I0nWj1aILbvKUhixdl27so/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 3 | [link](https://drive.google.com/file/d/1CN1eJdtyrC9SKhCR7DwP-M8ehGGhjN2O/view?usp=sharing)|
 | Exercícios | Lista de exercícios sobre a Aula 3 |  [link](https://drive.google.com/file/d/1Qq7xdy_52krRlXxAnMZFy2BI9WAsShqY/view?usp=share_link)  |
 | Exercícios | Lista de exercícios extra sobre as Aulas 1, 2 e 3 |  [link](https://drive.google.com/file/d/1LqSEl57NDeNVmqZ35NrpBHmSdloxv48P/view?usp=share_link)  |
 
