@@ -233,6 +233,8 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Aula | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1VJBBmNFfiJqo4qeyFek6zq1Q5hDAMwO4/view?usp=sharing)   |
 | Tabela | Tabela da Distribuição F-Snedecor | [link](https://drive.google.com/file/d/10BtwXCkGEnDQjL2ucBbbcSxYFaBkiJAZ/view?usp=sharing)   |
 | Tabela | Tabela da Distribuição de Tukey| [link](https://drive.google.com/file/d/194P1kg-Ykd_7uBwZ-PEU9kAaQ6gXGdXP/view?usp=sharing)   |
+| Script | Script em R dos exemplos dos slides da Aula 4 | [link](https://drive.google.com/file/d/13wcEz8ZH9k4MFt9PTuunf6kGWCLoajg9/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 4 | [link](https://drive.google.com/file/d/1SU3qoeSwt23GBhX1eD62b0CnSmueaehG/view?usp=sharing)|
 | Exercícios | Lista de exercícios sobre a Aula 4 |  [link](https://drive.google.com/file/d/1Uy2qWsTWfwYTDdYkJ3wqUaUbULyDcuJD/view?usp=sharing)  |
 
 # **Aula 5:** Correlação Linear
@@ -243,6 +245,8 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Atividades |                Tipo de Atividade                            | Links|
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1tqqQpLW_f68TKJjYFLJ78Y03OwcLnPAd/view?usp=sharing)   |
+| Script | Script em R dos exemplos dos slides da Aula 5 | [link](https://drive.google.com/file/d/1S2flWNns7fGl_Q3Iz18fnqkfqLnfEI2D/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 5 | [link](https://drive.google.com/file/d/1T0YrnpJzsDz1q-_vghHsGcLTCG78z8g7/view?usp=sharing)|
 | Exercícios | Lista de exercícios sobre a Aula 5 |  [link](https://drive.google.com/file/d/1PhfvTRILdzafUmQE1X2obFdHqZDw2sYf/view?usp=sharing)  |
 
 
@@ -254,6 +258,8 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Atividades |                Tipo de Atividade                            | Links|
 | :---------: | ---------------------------------------------------------- | :---: |
 | Aula | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1SJnUgxPwTXbFD1uHbg9FWUJYWpStYH1j/view?usp=sharing)   |
+| Script | Script em R dos exemplos dos slides da Aula 6 | [link](https://drive.google.com/file/d/1SZ07mHyDC1kGlWlF3-2lqDJKpl2FnMJl/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 6 | [link](https://drive.google.com/file/d/1nEsW4UzTzF1cmFGSiBXKSoS2-0tEf9OY/view?usp=sharing)|
 | Exercícios | Lista de exercícios sobre a Aula 6 |  [link](https://drive.google.com/file/d/1EQG-GydLad1VzdgU4ejcAiPEtzpNkL6I/view?usp=sharing)  |
 
 # **Aula 7:** Números-Índice
