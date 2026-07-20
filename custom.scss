@@ -1,0 +1,96 @@
+/*-- scss:defaults --*/
+
+// Paleta
+$forest:      #2A4A30;
+$forest-deep: #152A19;
+$gold:        #A97D3D;
+$sage:        #E5EEDD;
+$sage-line:   #C7D6BC;
+$amber:       #FBEBC8;
+$amber-line:  #E9CE93;
+$ink:         #16241A;
+$ink-soft:    #4B5A50;
+$bg-soft:     #F3F6EF;
+$rule:        #DBE2D3;
+
+$primary:       $forest;
+$body-color:    $ink;
+$body-bg:       #FFFFFF;
+$link-color:    $forest;
+$link-hover-color: $gold;
+
+$font-family-sans-serif: "Inter", sans-serif;
+$font-family-monospace:  "IBM Plex Mono", monospace;
+$headings-font-family:   "Source Serif 4", serif;
+$headings-color:         $forest-deep;
+$headings-font-weight:   600;
+
+$toc-color: $forest;
+$toc-font-size: 13.5px;
+
+$callout-color-warning: $gold;
+$callout-color-note:    $forest;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.65;
+}
+
+#title-block-header {
+  background: linear-gradient(180deg, $forest-deep 0%, $forest 100%);
+  color: #F4F7F0;
+  padding: 3rem 2rem 2.5rem 2rem;
+  margin: -1rem -1rem 2rem -1rem;
+  border-radius: 2px;
+
+  .title {
+    color: #FFFFFF;
+    font-size: clamp(28px, 4vw, 42px);
+  }
+  .subtitle {
+    font-family: $font-family-monospace;
+    font-size: 12.5px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: #BFD6C4;
+    opacity: 1;
+  }
+  .author, .quarto-title-meta {
+    color: #D8E6D8;
+  }
+  a { color: #EAF3E6; }
+}
+
+h2 {
+  border-bottom: 1px solid $rule;
+  padding-bottom: .4rem;
+  margin-top: 2.5rem;
+}
+
+.callout-warning {
+  background-color: $amber;
+  border-left-color: $gold;
+}
+
+.callout-note {
+  background-color: $sage;
+  border-left-color: $forest;
+}
+
+.sidebar nav[role="doc-toc"] ul li a.active {
+  color: $gold;
+  font-weight: 600;
+}
+
+table {
+  font-size: .92rem;
+}
+
+table thead th {
+  font-family: $font-family-monospace;
+  font-size: 11px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: $ink-soft;
+}
