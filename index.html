@@ -36,7 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="index_files/libs/bootstrap/bootstrap-86f146ab55fb3926c0a3d2eb9dbe844b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="index_files/libs/bootstrap/bootstrap-628cc633c95f2435a91c8bd8f8281442.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -96,6 +96,12 @@ window.Quarto = {
   <ul class="collapse">
   <li><a href="#apresentação-da-disciplina" id="toc-apresentação-da-disciplina" class="nav-link" data-scroll-target="#apresentação-da-disciplina"><span class="header-section-number">8.1</span> Apresentação da disciplina</a></li>
   <li><a href="#aula-1-introdução-a-inferência-estatística-e-conceitos-de-amostragem" id="toc-aula-1-introdução-a-inferência-estatística-e-conceitos-de-amostragem" class="nav-link" data-scroll-target="#aula-1-introdução-a-inferência-estatística-e-conceitos-de-amostragem"><span class="header-section-number">8.2</span> Aula 1: Introdução a Inferência Estatística e Conceitos de Amostragem</a></li>
+  <li><a href="#aula-2-intervalos-de-confiança" id="toc-aula-2-intervalos-de-confiança" class="nav-link" data-scroll-target="#aula-2-intervalos-de-confiança"><span class="header-section-number">8.3</span> Aula 2: Intervalos de Confiança</a></li>
+  <li><a href="#aula-3-testes-de-hipótese" id="toc-aula-3-testes-de-hipótese" class="nav-link" data-scroll-target="#aula-3-testes-de-hipótese"><span class="header-section-number">8.4</span> Aula 3: Testes de Hipótese</a></li>
+  <li><a href="#aula-4-anova" id="toc-aula-4-anova" class="nav-link" data-scroll-target="#aula-4-anova"><span class="header-section-number">8.5</span> Aula 4: ANOVA</a></li>
+  <li><a href="#aula-5-correlação-linear" id="toc-aula-5-correlação-linear" class="nav-link" data-scroll-target="#aula-5-correlação-linear"><span class="header-section-number">8.6</span> Aula 5: Correlação Linear</a></li>
+  <li><a href="#aula-6-regressão-linear-simples" id="toc-aula-6-regressão-linear-simples" class="nav-link" data-scroll-target="#aula-6-regressão-linear-simples"><span class="header-section-number">8.7</span> Aula 6: Regressão Linear Simples</a></li>
+  <li><a href="#aula-7-números-índice" id="toc-aula-7-números-índice" class="nav-link" data-scroll-target="#aula-7-números-índice"><span class="header-section-number">8.8</span> Aula 7: Números-Índice</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -133,7 +139,9 @@ window.Quarto = {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&amp;family=Inter:wght@400;500;600;700&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
-<!-- ![](images/rural3.jpg) -->
+<div class="hero-image">
+<p><img src="images/rural.jpg" class="img-fluid"></p>
+</div>
 <p><strong><a href="https://institucional.ufrrj.br/ruralpesquisa/wagner-de-souza-tassinari/">Prof.&nbsp;Wagner Tassinari (DEMAT/UFRRJ)</a></strong></p>
 <p>email: <a href="mailto:tassinari@ufrrj.br"><em>tassinari@ufrrj.br</em></a></p>
 <p>Esta página representa o repositório do conteúdo da disciplina de Estatística Aplicada à Economia e Administração (DEMAT/UFRRJ).</p>
@@ -245,16 +253,16 @@ Note
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th style="text-align: left;">Atividades</th>
-<th style="text-align: left;">Tipo de Atividade</th>
-<th style="text-align: left;">Links</th>
+<th style="text-align: center;">Atividades</th>
+<th style="text-align: center;">Tipo de Atividade</th>
+<th style="text-align: center;">Links</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Aula</td>
-<td style="text-align: left;">Slides sobre a Apresentação do curso</td>
-<td style="text-align: left;"><a href="https://drive.google.com/file/d/1dnI5u_fDil2db2t1RffyYpfJG55G0SQs/view?usp=share_link">link</a></td>
+<td style="text-align: center;">Aula</td>
+<td style="text-align: center;">Slides sobre a Apresentação do curso</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1dnI5u_fDil2db2t1RffyYpfJG55G0SQs/view?usp=share_link">link</a></td>
 </tr>
 </tbody>
 </table>
@@ -265,40 +273,264 @@ Note
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th style="text-align: left;">Atividades</th>
-<th style="text-align: left;">Tipo de Atividade</th>
-<th style="text-align: left;">Links</th>
+<th style="text-align: center;">Atividades</th>
+<th style="text-align: center;">Tipo de Atividade</th>
+<th style="text-align: center;">Links</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Aula</td>
-<td style="text-align: left;">Slides sobre a Aula 1</td>
-<td style="text-align: left;"><a href="https://drive.google.com/file/d/168OWiNgU7SnA5zFjczsJv2A_c92agMKh/view?usp=share_link">link</a></td>
+<td style="text-align: center;">Aula</td>
+<td style="text-align: center;">Slides sobre a Aula 1</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/168OWiNgU7SnA5zFjczsJv2A_c92agMKh/view?usp=share_link">link</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Tabela</td>
-<td style="text-align: left;">Tabela da Distribuição Normal Padronizada</td>
-<td style="text-align: left;"><a href="https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link">link</a></td>
+<td style="text-align: center;">Tabela</td>
+<td style="text-align: center;">Tabela da Distribuição Normal Padronizada</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link">link</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Script</td>
-<td style="text-align: left;">Script em R dos exercícios dos slides da Aula 1</td>
-<td style="text-align: left;"><a href="https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link">link</a></td>
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em R dos exercícios dos slides da Aula 1</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link">link</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Script</td>
-<td style="text-align: left;">Script em Python dos exercícios dos slides da Aula 1</td>
-<td style="text-align: left;"><a href="https://drive.google.com/file/d/1EfeD8K0_3aOMJUciuRUKZuO--zK2vcRj/view?usp=sharing">link</a></td>
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em Python dos exercícios dos slides da Aula 1</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1EfeD8K0_3aOMJUciuRUKZuO--zK2vcRj/view?usp=sharing">link</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Exercícios</td>
-<td style="text-align: left;">Lista de exercícios sobre a Aula 1</td>
-<td style="text-align: left;"><a href="https://drive.google.com/file/d/1kHQrHe6g_ZwCrEfzsHhyr1dMxtrWfYbK/view?usp=share_link">link</a></td>
+<td style="text-align: center;">Exercícios</td>
+<td style="text-align: center;">Lista de exercícios sobre a Aula 1</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1kHQrHe6g_ZwCrEfzsHhyr1dMxtrWfYbK/view?usp=share_link">link</a></td>
 </tr>
 </tbody>
 </table>
-<!-- Continue com as outras aulas da mesma forma -->
+</section>
+<section id="aula-2-intervalos-de-confiança" class="level3" data-number="8.3">
+<h3 data-number="8.3" class="anchored" data-anchor-id="aula-2-intervalos-de-confiança"><span class="header-section-number">8.3</span> Aula 2: Intervalos de Confiança</h3>
+<p>Nessa aula serão apresentados conceitos básicos sobre os intervalos de confiança para a média populacional.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Atividades</th>
+<th style="text-align: center;">Tipo de Atividade</th>
+<th style="text-align: center;">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Aula</td>
+<td style="text-align: center;">Slides sobre a Aula 2</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1nvMw6MCmRCVZQ85NabGUXHC7GwVAOgBW/view?usp=share_link">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Tabela</td>
+<td style="text-align: center;">Tabela da Distribuição t-student</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1Gp_tlrN-FoziyXP6UZ2u0--4Y-1yLwJf/view?usp=share_link">link</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em R dos exemplos dos slides da Aula 2</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1ozBONCMdww0X_5CUWQA9JkgfzREBplWV/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em Python dos exemplos dos slides da Aula 2</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1wbRHJdLvxG1meL4y27kXNyaIL1Lo2TkC/view?usp=sharing">link</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Exercícios</td>
+<td style="text-align: center;">Lista de exercícios sobre a Aula 2</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1HG2Tw_AX4QLQIzulTf1nJeQlPfU4HxuJ/view?usp=share_link">link</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="aula-3-testes-de-hipótese" class="level3" data-number="8.4">
+<h3 data-number="8.4" class="anchored" data-anchor-id="aula-3-testes-de-hipótese"><span class="header-section-number">8.4</span> Aula 3: Testes de Hipótese</h3>
+<p>Nessa aula serão apresentados conceitos básicos sobre os principais testes de hipóteses.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Atividades</th>
+<th style="text-align: center;">Tipo de Atividade</th>
+<th style="text-align: center;">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Aula</td>
+<td style="text-align: center;">Slides sobre a Aula 3</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1PX_vaAQhQjT7A09UVqZYPxCMJfQb9rdY/view?usp=share_link">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Tabela</td>
+<td style="text-align: center;">Tabela da Distribuição Qui-Quadrado</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1uBXwM2xwX2Nu4zrYekBFwNY1LpMLxeBa/view?usp=share_link">link</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em R dos exemplos dos slides da Aula 3</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1vek6eue6K7I0nWj1aILbvKUhixdl27so/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em Python dos exemplos dos slides da Aula 3</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1CN1eJdtyrC9SKhCR7DwP-M8ehGGhjN2O/view?usp=sharing">link</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Exercícios</td>
+<td style="text-align: center;">Lista de exercícios sobre a Aula 3</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1Qq7xdy_52krRlXxAnMZFy2BI9WAsShqY/view?usp=share_link">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Exercícios</td>
+<td style="text-align: center;">Lista de exercícios extra sobre as Aulas 1, 2 e 3</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1LqSEl57NDeNVmqZ35NrpBHmSdloxv48P/view?usp=share_link">link</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="aula-4-anova" class="level3" data-number="8.5">
+<h3 data-number="8.5" class="anchored" data-anchor-id="aula-4-anova"><span class="header-section-number">8.5</span> Aula 4: ANOVA</h3>
+<p>Nessa aula será apresentada a técnica de Análise de Variância (ANOVA), levando em consideração apenas um fator, para dados balanceados e dados desbalanceados. Logo em seguida será abordado um dos testes para diferença entre médias chamado teste de Tukey.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Atividades</th>
+<th style="text-align: center;">Tipo de Atividade</th>
+<th style="text-align: center;">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Aula</td>
+<td style="text-align: center;">Slides sobre a Aula 4</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VJBBmNFfiJqo4qeyFek6zq1Q5hDAMwO4/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Tabela</td>
+<td style="text-align: center;">Tabela da Distribuição F-Snedecor</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/10BtwXCkGEnDQjL2ucBbbcSxYFaBkiJAZ/view?usp=sharing">link</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Tabela</td>
+<td style="text-align: center;">Tabela da Distribuição de Tukey</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/194P1kg-Ykd_7uBwZ-PEU9kAaQ6gXGdXP/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em R dos exemplos dos slides da Aula 4</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/13wcEz8ZH9k4MFt9PTuunf6kGWCLoajg9/view?usp=sharing">link</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em Python dos exemplos dos slides da Aula 4</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1SU3qoeSwt23GBhX1eD62b0CnSmueaehG/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Exercícios</td>
+<td style="text-align: center;">Lista de exercícios sobre a Aula 4</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1Uy2qWsTWfwYTDdYkJ3wqUaUbULyDcuJD/view?usp=sharing">link</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="aula-5-correlação-linear" class="level3" data-number="8.6">
+<h3 data-number="8.6" class="anchored" data-anchor-id="aula-5-correlação-linear"><span class="header-section-number">8.6</span> Aula 5: Correlação Linear</h3>
+<p>Nessa aula será apresentada o coeficiente de correlação linear de <em>Pearson</em> e como podemos testar via TH se de fato a correlação encontrada é estatisticamente significativa.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Atividades</th>
+<th style="text-align: center;">Tipo de Atividade</th>
+<th style="text-align: center;">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Aula</td>
+<td style="text-align: center;">Slides sobre a Aula 5</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1tqqQpLW_f68TKJjYFLJ78Y03OwcLnPAd/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em R dos exemplos dos slides da Aula 5</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1S2flWNns7fGl_Q3Iz18fnqkfqLnfEI2D/view?usp=sharing">link</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em Python dos exemplos dos slides da Aula 5</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1T0YrnpJzsDz1q-_vghHsGcLTCG78z8g7/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Exercícios</td>
+<td style="text-align: center;">Lista de exercícios sobre a Aula 5</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1PhfvTRILdzafUmQE1X2obFdHqZDw2sYf/view?usp=sharing">link</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="aula-6-regressão-linear-simples" class="level3" data-number="8.7">
+<h3 data-number="8.7" class="anchored" data-anchor-id="aula-6-regressão-linear-simples"><span class="header-section-number">8.7</span> Aula 6: Regressão Linear Simples</h3>
+<p>Nessa aula será apresentada o modelo de regressão linear simples e algumas medidas para verificar a qualidade do ajuste.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Atividades</th>
+<th style="text-align: center;">Tipo de Atividade</th>
+<th style="text-align: center;">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Aula</td>
+<td style="text-align: center;">Slides sobre a Aula 6</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1SJnUgxPwTXbFD1uHbg9FWUJYWpStYH1j/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em R dos exemplos dos slides da Aula 6</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1SZ07mHyDC1kGlWlF3-2lqDJKpl2FnMJl/view?usp=sharing">link</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Script</td>
+<td style="text-align: center;">Script em Python dos exemplos dos slides da Aula 6</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1nEsW4UzTzF1cmFGSiBXKSoS2-0tEf9OY/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Exercícios</td>
+<td style="text-align: center;">Lista de exercícios sobre a Aula 6</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1EQG-GydLad1VzdgU4ejcAiPEtzpNkL6I/view?usp=sharing">link</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="aula-7-números-índice" class="level3" data-number="8.8">
+<h3 data-number="8.8" class="anchored" data-anchor-id="aula-7-números-índice"><span class="header-section-number">8.8</span> Aula 7: Números-Índice</h3>
+<p>Nessa aula será introduzido o conceito dos números-índice simples e compostos.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Atividades</th>
+<th style="text-align: center;">Tipo de Atividade</th>
+<th style="text-align: center;">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Aula</td>
+<td style="text-align: center;">Slides sobre a Aula 7</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1A58yniLasfeTvUwza62eiIV1iRebUX6n/view?usp=sharing">link</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Exercícios</td>
+<td style="text-align: center;">Lista de exercícios sobre a Aula 7</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1wkfVKPOwTzElTB7qiRUESKAr3H5Ch6Xo/view?usp=sharing">link</a></td>
+</tr>
+</tbody>
+</table>
 </section>
 </section>
 

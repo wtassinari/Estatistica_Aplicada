@@ -62,6 +62,20 @@ body {
   a { color: #EAF3E6; }
 }
 
+.hero-image {
+  margin-bottom: 2rem;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  
+  img {
+    display: block;
+    max-height: 380px;
+    width: 100%;
+    object-fit: cover;
+  }
+}
+
 h2 {
   border-bottom: 1px solid $rule;
   padding-bottom: .4rem;

@@ -21,7 +21,9 @@ format:
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 ```
 
-<!-- ![](images/rural3.jpg) -->
+<div class="hero-image">
+![](images/rural.jpg)
+</div>
 
 **[Prof. Wagner Tassinari (DEMAT/UFRRJ)](https://institucional.ufrrj.br/ruralpesquisa/wagner-de-souza-tassinari/)**
 
@@ -111,7 +113,7 @@ Também é **FACULTATIVO** a utilização do **programa Python**
 Nessa aula será apresentado o conteúdo da disciplina e a dinâmica das aulas.
 
 | Atividades | Tipo de Atividade | Links |
-|:---|:---|:---|
+|:---:|:---:|:---:|
 | Aula | Slides sobre a Apresentação do curso | [link](https://drive.google.com/file/d/1dnI5u_fDil2db2t1RffyYpfJG55G0SQs/view?usp=share_link) |
 
 ### Aula 1: Introdução a Inferência Estatística e Conceitos de Amostragem
@@ -119,11 +121,78 @@ Nessa aula será apresentado o conteúdo da disciplina e a dinâmica das aulas.
 Nessa aula serão apresentados alguns conceitos fundamentais a respeito da inferência estatística e algumas técnicas de amostragem.
 
 | Atividades | Tipo de Atividade | Links |
-|:---|:---|:---|
+|:---:|:---:|:---:|
 | Aula | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/168OWiNgU7SnA5zFjczsJv2A_c92agMKh/view?usp=share_link) |
 | Tabela | Tabela da Distribuição Normal Padronizada | [link](https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link) |
 | Script | Script em R dos exercícios dos slides da Aula 1 | [link](https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link) |
 | Script | Script em Python dos exercícios dos slides da Aula 1 | [link](https://drive.google.com/file/d/1EfeD8K0_3aOMJUciuRUKZuO--zK2vcRj/view?usp=sharing) |
 | Exercícios | Lista de exercícios sobre a Aula 1 | [link](https://drive.google.com/file/d/1kHQrHe6g_ZwCrEfzsHhyr1dMxtrWfYbK/view?usp=share_link) |
 
-<!-- Continue com as outras aulas da mesma forma -->
+### Aula 2: Intervalos de Confiança
+
+Nessa aula serão apresentados conceitos básicos sobre os intervalos de confiança para a média populacional.
+
+| Atividades | Tipo de Atividade | Links |
+|:---:|:---:|:---:|
+| Aula | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1nvMw6MCmRCVZQ85NabGUXHC7GwVAOgBW/view?usp=share_link) |
+| Tabela | Tabela da Distribuição t-student | [link](https://drive.google.com/file/d/1Gp_tlrN-FoziyXP6UZ2u0--4Y-1yLwJf/view?usp=share_link) |
+| Script | Script em R dos exemplos dos slides da Aula 2 | [link](https://drive.google.com/file/d/1ozBONCMdww0X_5CUWQA9JkgfzREBplWV/view?usp=sharing) |
+| Script | Script em Python dos exemplos dos slides da Aula 2 | [link](https://drive.google.com/file/d/1wbRHJdLvxG1meL4y27kXNyaIL1Lo2TkC/view?usp=sharing) |
+| Exercícios | Lista de exercícios sobre a Aula 2 | [link](https://drive.google.com/file/d/1HG2Tw_AX4QLQIzulTf1nJeQlPfU4HxuJ/view?usp=share_link) |
+
+### Aula 3: Testes de Hipótese
+
+Nessa aula serão apresentados conceitos básicos sobre os principais testes de hipóteses.
+
+| Atividades | Tipo de Atividade | Links |
+|:---:|:---:|:---:|
+| Aula | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1PX_vaAQhQjT7A09UVqZYPxCMJfQb9rdY/view?usp=share_link) |
+| Tabela | Tabela da Distribuição Qui-Quadrado | [link](https://drive.google.com/file/d/1uBXwM2xwX2Nu4zrYekBFwNY1LpMLxeBa/view?usp=share_link) |
+| Script | Script em R dos exemplos dos slides da Aula 3 | [link](https://drive.google.com/file/d/1vek6eue6K7I0nWj1aILbvKUhixdl27so/view?usp=sharing) |
+| Script | Script em Python dos exemplos dos slides da Aula 3 | [link](https://drive.google.com/file/d/1CN1eJdtyrC9SKhCR7DwP-M8ehGGhjN2O/view?usp=sharing) |
+| Exercícios | Lista de exercícios sobre a Aula 3 | [link](https://drive.google.com/file/d/1Qq7xdy_52krRlXxAnMZFy2BI9WAsShqY/view?usp=share_link) |
+| Exercícios | Lista de exercícios extra sobre as Aulas 1, 2 e 3 | [link](https://drive.google.com/file/d/1LqSEl57NDeNVmqZ35NrpBHmSdloxv48P/view?usp=share_link) |
+
+### Aula 4: ANOVA
+
+Nessa aula será apresentada a técnica de Análise de Variância (ANOVA), levando em consideração apenas um fator, para dados balanceados e dados desbalanceados. Logo em seguida será abordado um dos testes para diferença entre médias chamado teste de Tukey.
+
+| Atividades | Tipo de Atividade | Links |
+|:---:|:---:|:---:|
+| Aula | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1VJBBmNFfiJqo4qeyFek6zq1Q5hDAMwO4/view?usp=sharing) |
+| Tabela | Tabela da Distribuição F-Snedecor | [link](https://drive.google.com/file/d/10BtwXCkGEnDQjL2ucBbbcSxYFaBkiJAZ/view?usp=sharing) |
+| Tabela | Tabela da Distribuição de Tukey | [link](https://drive.google.com/file/d/194P1kg-Ykd_7uBwZ-PEU9kAaQ6gXGdXP/view?usp=sharing) |
+| Script | Script em R dos exemplos dos slides da Aula 4 | [link](https://drive.google.com/file/d/13wcEz8ZH9k4MFt9PTuunf6kGWCLoajg9/view?usp=sharing) |
+| Script | Script em Python dos exemplos dos slides da Aula 4 | [link](https://drive.google.com/file/d/1SU3qoeSwt23GBhX1eD62b0CnSmueaehG/view?usp=sharing) |
+| Exercícios | Lista de exercícios sobre a Aula 4 | [link](https://drive.google.com/file/d/1Uy2qWsTWfwYTDdYkJ3wqUaUbULyDcuJD/view?usp=sharing) |
+
+### Aula 5: Correlação Linear
+
+Nessa aula será apresentada o coeficiente de correlação linear de *Pearson* e como podemos testar via TH se de fato a correlação encontrada é estatisticamente significativa.
+
+| Atividades | Tipo de Atividade | Links |
+|:---:|:---:|:---:|
+| Aula | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1tqqQpLW_f68TKJjYFLJ78Y03OwcLnPAd/view?usp=sharing) |
+| Script | Script em R dos exemplos dos slides da Aula 5 | [link](https://drive.google.com/file/d/1S2flWNns7fGl_Q3Iz18fnqkfqLnfEI2D/view?usp=sharing) |
+| Script | Script em Python dos exemplos dos slides da Aula 5 | [link](https://drive.google.com/file/d/1T0YrnpJzsDz1q-_vghHsGcLTCG78z8g7/view?usp=sharing) |
+| Exercícios | Lista de exercícios sobre a Aula 5 | [link](https://drive.google.com/file/d/1PhfvTRILdzafUmQE1X2obFdHqZDw2sYf/view?usp=sharing) |
+
+### Aula 6: Regressão Linear Simples
+
+Nessa aula será apresentada o modelo de regressão linear simples e algumas medidas para verificar a qualidade do ajuste.
+
+| Atividades | Tipo de Atividade | Links |
+|:---:|:---:|:---:|
+| Aula | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1SJnUgxPwTXbFD1uHbg9FWUJYWpStYH1j/view?usp=sharing) |
+| Script | Script em R dos exemplos dos slides da Aula 6 | [link](https://drive.google.com/file/d/1SZ07mHyDC1kGlWlF3-2lqDJKpl2FnMJl/view?usp=sharing) |
+| Script | Script em Python dos exemplos dos slides da Aula 6 | [link](https://drive.google.com/file/d/1nEsW4UzTzF1cmFGSiBXKSoS2-0tEf9OY/view?usp=sharing) |
+| Exercícios | Lista de exercícios sobre a Aula 6 | [link](https://drive.google.com/file/d/1EQG-GydLad1VzdgU4ejcAiPEtzpNkL6I/view?usp=sharing) |
+
+### Aula 7: Números-Índice
+
+Nessa aula será introduzido o conceito dos números-índice simples e compostos.
+
+| Atividades | Tipo de Atividade | Links |
+|:---:|:---:|:---:|
+| Aula | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1A58yniLasfeTvUwza62eiIV1iRebUX6n/view?usp=sharing) |
+| Exercícios | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1wkfVKPOwTzElTB7qiRUESKAr3H5Ch6Xo/view?usp=sharing) |
