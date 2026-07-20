@@ -51,30 +51,18 @@ knitr::include_graphics('rural3.jpg')
 
 email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Aplicada à Economia e Administração - 2023-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo da disciplina de Estatística Aplicada à Economia e Administração (DEMAT/UFRRJ)
 
 # Informações Gerais
 
 ## Objetivo das Disciplinas 
 
-- Proporcionar a compreensão do processo de tratamento dos dados via a aplicação de métodos estatísticos.
+- Proporcionar a compreensão do processo de tratamento dos dados via a aplicação dos principais métodos estatísticos aplicados as áreas de administração e economia.
 
 ## Formato das Disciplinas
 
 - O curso será no formato presencial.
 
-
-<!-- ## Sobre o pacote estatístico R  -->
-
-<!-- - É **FACULTAIVO** a utilização do **pacote estatístico R** utilizando a interface gráfica do **RStudio**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN ([link](https://cran.r-project.org/)). O pacote estatístico R é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados. -->
-
-<!-- \vspace{0.3mm} -->
-
-<!-- - Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** ([link](https://rstudio.com/products/rstudio/)), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar. -->
-
-<!-- \vspace{0.3mm} -->
-
-<!-- - Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler) -->
 
 # Algumas Considerações
 
@@ -105,25 +93,21 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 - Análise das séries temporais
 
 
-# Avaliação das Disciplinas
+# Cronograma das Avaliações 
 
-- **P1** – 18/05/2023 
-
-\vspace{0.3mm}
-
-- **Segunda chamada referente a P1** – 30/05/2023
+- Primeira Avaliação - **P1:** 28/09/2026
 
 \vspace{0.3mm}
 
-- **P2** – 18/07/2023
+- Segunda Avaliação - **P2:** 23/11/2026
 
 \vspace{0.3mm}
 
-- **Segunda chamada referente a P2** – 25/057/2023
+- Segunda chamada referente a **P1** e a **P2:** 30/11/2026
 
 \vspace{0.3mm}
 
-- **Optativa** – 01/08/2023
+- Prova **Optativa:** 07/12/2026
 
 \vspace{0.3mm}
 
@@ -135,8 +119,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 \vspace{0.3mm}
 
-**OBS2:** É facultativa ao aluno uma prova opcional (optativa), a ser realizada no encerramento do período, envolvendo toda a matéria lecionada. A nota obtida em prova opcional substituirá o de menor valor correspondente às verificações regulares durante o período, inclusive se o grau da prova optativa for
-inferior ao menor conceito obtido anteriormente, mas esta substituição deve resultar em média final igual ou superior a $5,0$ (cinco). [(Ver manual do estudante da UFRRJ)](https://portal.ufrrj.br/wp-content/uploads/2015/09/Manual-FINAL.pdf)
+**OBS2:** É facultativa ao aluno uma prova opcional (optativa), a ser realizada no encerramento do período, envolvendo toda a matéria lecionada. A nota obtida em prova opcional substituirá o de menor valor correspondente às verificações regulares durante o período, inclusive se o grau da prova optativa for inferior ao menor conceito obtido anteriormente, mas esta substituição deve resultar em média final igual ou superior a $5,0$ (cinco). [(Ver manual do estudante da UFRRJ)](https://portal.ufrrj.br/wp-content/uploads/2015/09/Manual-FINAL.pdf)
 
 
 # Bibliografia
@@ -150,200 +133,139 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 - SALVATORE, DOMINICK. Estatística e Econometria. McGraw-Hill. 1982
 
 
-<!-- # Instalando o pacote estatístico R + sua interface gráfica RStudio -->
+# Sobre o pacote estatístico R
 
-<!-- - [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U) -->
+- É **FACULTATIVO** a utilização do **pacote estatístico R** utilizando a interface gráfica do **RStudio**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN ([link](https://cran.r-project.org/)). O pacote estatístico R é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
 
-<!-- \vspace{0.3mm} -->
+\vspace{0.3mm}
 
-<!-- - [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk) -->
+- Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** ([link](https://rstudio.com/products/rstudio/)), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
 
-<!-- \vspace{0.3mm} -->
+\vspace{0.3mm}
 
-<!-- - [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s) -->
+- Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
 
-<!-- \vspace{0.3mm} -->
 
-<!-- - [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg) -->
+## Instalando o pacote estatístico R + sua interface gráfica RStudio
 
-# Conteúdo das aulas
+- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
 
-### **Apresentação da disciplina**
+\vspace{0.3mm}
 
-- Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
+- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
 
-#### **Introdução a Inferência Estatística e Conceitos de Amostragem:**
+\vspace{0.3mm}
 
-- Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística, são eles: introdução aos somatórios, cálculo do fatorial e análise combinatória. 
+- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
+
+# Sobre o programa Python
+
+- Também é **FACULTATIVO** a utilização do **programa Python**
+
+- [Vídeo mostrando como utilizar o Python via Google Colab](https://www.youtube.com/watch?v=b8O37dWq2f8)
+
+# **Apresentação da disciplina**
+
+- Nessa aula será apresentado o conteúdo da disciplina e a dinâmica das aulas. 
+
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Apresentação do curso | [link](https://drive.google.com/file/d/1dnI5u_fDil2db2t1RffyYpfJG55G0SQs/view?usp=share_link)   |
+
+# **Aula 1:** Introdução a Inferência Estatística e Conceitos de Amostragem
+
+- Nessa aula serão apresentados alguns conceitos fundamentais a respeito da inferência estatística e algumas técnicas de amostragem.
 
 
 
 | Atividades |                Tipo de Atividade                            | Links|
 | :---------: | ---------------------------------------------------------- | :---: |
-| Slides | Slides sobre a Aula 1 | [link]()   |
-| Exercícios | Lista de exercícios sobre a Aula 1 |  [link]()  |
-<!-- | Script | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  | -->
+| Aula | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/168OWiNgU7SnA5zFjczsJv2A_c92agMKh/view?usp=share_link)   |
+| Tabela | Tabela da Distribuição Normal Padronizada | [link](https://drive.google.com/file/d/19w_spMBPRINVTc9g9s9ZL_l2LsgjwsgR/view?usp=share_link)   |
+| Script | Script em R dos exercícios dos slides da Aula 1 | [link](https://drive.google.com/file/d/1vWs_LGS2LW7v6RHtHx_uKeK4Y8EtY_BE/view?usp=share_link)|
+| Script | Script em Python dos exercícios dos slides da Aula 1 | [link](https://drive.google.com/file/d/1EfeD8K0_3aOMJUciuRUKZuO--zK2vcRj/view?usp=sharing)|
+| Exercícios | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1kHQrHe6g_ZwCrEfzsHhyr1dMxtrWfYbK/view?usp=share_link)  |
+
+# **Aula 2:** Intervalos de Confiança
+
+- Nessa aula serão apresentados conceitos básicos sobre os intervalos de confiança para a média populacional.
 
 
 
-<!-- ## **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos -->
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1nvMw6MCmRCVZQ85NabGUXHC7GwVAOgBW/view?usp=share_link)   |
+| Tabela | Tabela da Distribuição t-student | [link](https://drive.google.com/file/d/1Gp_tlrN-FoziyXP6UZ2u0--4Y-1yLwJf/view?usp=share_link)   |
+| Script | Script em R dos exemplos dos slides da Aula 2 | [link](https://drive.google.com/file/d/1ozBONCMdww0X_5CUWQA9JkgfzREBplWV/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 2 | [link](https://drive.google.com/file/d/1wbRHJdLvxG1meL4y27kXNyaIL1Lo2TkC/view?usp=sharing)|
+| Exercícios | Lista de exercícios sobre a Aula 2 |  [link](https://drive.google.com/file/d/1HG2Tw_AX4QLQIzulTf1nJeQlPfU4HxuJ/view?usp=share_link)  |
 
-<!-- - Nessas aulas, serão apresentados técnicas de como se apresenta os dados organizados em tabelas e em gráficos. -->
+# **Aula 3:** Testes de Hipótese
 
+- Nessa aula serão apresentados conceitos básicos sobre os principais testes de hipóteses.
 
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
-<!-- |  -          | **Apresentção dos dados em tabelas** |    | -->
-<!-- | Videoaula | Videoaula sobre a Aula 2 - Vídeo 1  |  [link](https://drive.google.com/file/d/12fbuxcy6udHU6wUV_jQ9-EeQxCQ4eyif/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 2 - Vídeo 2 |  [link](https://drive.google.com/file/d/1HO8xjEB2LMdWA-0uYw_e9tsayDZHtqE2/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 2 - Vídeo 3 | [link](https://drive.google.com/file/d/1EocPxFLLfQfQISvuP_zcJ-UHVAUQot-W/view?usp=sharing)   | -->
-<!-- | Slides | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1dmaVVeVi55ivVFhYZRelfRvoiI0PkirK/view?usp=sharing)   | -->
-<!-- |  -          | **Apresentção dos dados em gráficos** |    | -->
-<!-- | Videoaula | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://drive.google.com/file/d/1FHYc6wYByDdtvL_evH1fZXO1oXdQC8EJ/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://drive.google.com/file/d/1m8ro_zrRHbP6sxTMchUmaZuakaFGYCB2/view?usp=sharing)  | -->
-<!-- | Slides | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   | -->
-<!-- |  -          | **-** |    | -->
-<!-- | Exercícios | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1_wIxJAMTAeOWVSu_1i9IR6inm1IQwAGH/view?usp=sharing)  | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  | -->
-
-
-<!-- ## **Aula 4:** Medidas de posição e medidas separatrizes -->
-
-<!-- - Para esta aula serão mostrados algumas medidas de posição (ou tendência central) + algumas medidas separatrízes. Além de apresentar como e quando aplicar cada  uma dessas medidas, é mostrado suas vantangens e desvantagens. -->
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1PX_vaAQhQjT7A09UVqZYPxCMJfQb9rdY/view?usp=share_link)   |
+| Tabela | Tabela da Distribuição Qui-Quadrado | [link](https://drive.google.com/file/d/1uBXwM2xwX2Nu4zrYekBFwNY1LpMLxeBa/view?usp=share_link)   |
+| Script | Script em R dos exemplos dos slides da Aula 3 | [link](https://drive.google.com/file/d/1vek6eue6K7I0nWj1aILbvKUhixdl27so/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 3 | [link](https://drive.google.com/file/d/1CN1eJdtyrC9SKhCR7DwP-M8ehGGhjN2O/view?usp=sharing)|
+| Exercícios | Lista de exercícios sobre a Aula 3 |  [link](https://drive.google.com/file/d/1Qq7xdy_52krRlXxAnMZFy2BI9WAsShqY/view?usp=share_link)  |
+| Exercícios | Lista de exercícios extra sobre as Aulas 1, 2 e 3 |  [link](https://drive.google.com/file/d/1LqSEl57NDeNVmqZ35NrpBHmSdloxv48P/view?usp=share_link)  |
 
 
-<!-- | Atividades  |       Tipo de Atividade                                      | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :---:| -->
-<!-- | Videoaula | Videoaula sobre a Aula 4 - Vídeo 1  |  [link](https://drive.google.com/file/d/1t9uWQS8Q_4LeQSkur5cHbtS4FNWA68wT/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 4 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OdpTUFSqsFXGTMmDzV4X5BcOLOnUAOXr/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 4 - Vídeo 3 | [link](https://drive.google.com/file/d/1hCUUAiTk3jHQBmF6oKD84ygo7zuhgHm3/view?usp=sharing)   | -->
-<!-- | Videoaula | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://drive.google.com/file/d/1QSkCiidgjOhFoZVA3wJ1jd5HCYZz7R09/view?usp=sharing)   | -->
-<!-- | Slides | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1MN4C_O_pwFysI2eTOY-MAGLfkY0YG-K1/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 4 | [link](https://drive.google.com/file/d/1qtW6AV6Q2OxQrXugMlDatLLNyohjBuNS/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 4 | [link](https://drive.google.com/file/d/1fp_0wfdOlH1BY8zcG3T3DS0cWzbhWY-S/view?usp=sharing)  | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 4 |  [link](https://drive.google.com/file/d/1REhk4TowwN1E3R8K6pA-sa_kIk8hCj8r/view?usp=sharing)  | -->
+# **Aula 4:** ANOVA
 
-<!-- ## **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose -->
-
-<!-- - Nessas aulas, serão apresentados as principais medidas de variabiliade, as medidas de Simetria e Curtose, como se constroi um *BoxPlot*, e como é feito o cálculo para a detecção de *OutLiers*. -->
+- Nessa aula será apresentada a técnica de Análise de Variância (ANOVA), levando em consideração apenas um fator, para dados balanceados e dados desbalanceados. Logo em seguida será abordado um dos testes para diferença entre médias chamdo teste de Tukey.
 
 
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :---:| -->
-<!-- |  -          | **Medidas de dispersão** |    | -->
-<!-- | Videoaula | Videoaula sobre a Aula 5 - Vídeo 1  |  [link](https://drive.google.com/file/d/15STlyBwBRHOa_gOe5xQqzYsdZ8S4Lndc/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 5 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OWEb_roUFVNoWOUoz42jiMHodKfV7YrB/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 5 - Vídeo 3 | [link](https://drive.google.com/file/d/1mB2b1jMlSqW1F0V3L-aivoWW8O54e6IA/view?usp=sharing)   | -->
-<!-- | Slides | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1rN0dOCIQOi23Yt1q8T-DfGWFxfRPn8IO/view?usp=sharing)   | -->
-<!-- |  -          | **Medidas de assimetria e curtose + boxplot** |    | -->
-<!-- | Videoaula | Videoaula sobre a Aula 6 - Vídeo 1  |  [link](https://drive.google.com/file/d/1x0G3asedA0-piFvla_oXZz93ofQyHwN8/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 6 - Vídeo 2 |  [link](https://drive.google.com/file/d/1iQvBFw_bwqF2u3GioWocgu8mie32V4BW/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://drive.google.com/file/d/1ySw28-WKRqBaLGmDw3KOBx7V-XNnfboK/view?usp=sharing)  | -->
-<!-- | Slides | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1BlijIVVbV3cTIQ1VpODvHugDbhx3cmf1/view?usp=sharing)   | -->
-<!-- |  -          | **-** |    | -->
-<!-- | Exercícios | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1qxkXV-uLpdfUcMkt0JSCBOCh921S80Or/view?usp=sharing)  | -->
-<!-- | Script | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  | -->
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1VJBBmNFfiJqo4qeyFek6zq1Q5hDAMwO4/view?usp=sharing)   |
+| Tabela | Tabela da Distribuição F-Snedecor | [link](https://drive.google.com/file/d/10BtwXCkGEnDQjL2ucBbbcSxYFaBkiJAZ/view?usp=sharing)   |
+| Tabela | Tabela da Distribuição de Tukey| [link](https://drive.google.com/file/d/194P1kg-Ykd_7uBwZ-PEU9kAaQ6gXGdXP/view?usp=sharing)   |
+| Script | Script em R dos exemplos dos slides da Aula 4 | [link](https://drive.google.com/file/d/13wcEz8ZH9k4MFt9PTuunf6kGWCLoajg9/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 4 | [link](https://drive.google.com/file/d/1SU3qoeSwt23GBhX1eD62b0CnSmueaehG/view?usp=sharing)|
+| Exercícios | Lista de exercícios sobre a Aula 4 |  [link](https://drive.google.com/file/d/1Uy2qWsTWfwYTDdYkJ3wqUaUbULyDcuJD/view?usp=sharing)  |
+
+# **Aula 5:** Correlação Linear
+
+- Nessa aula será apresentada o coeficiente de correlção linear de *Pearson* e como podemos testar via TH se de fato a correlçao encontrada é estatísticamente significativa.
 
 
-<!-- ## **Aula 7:** Análise Bidimensional (ou medidas de associação) -->
-
-<!-- - Para esta aula serão mostrados algumas medidas mais usuais para investigar a associação entre variáveis qualitativas e quantitativas, são elas:  -->
-
-<!--     1) Para variáveis qualitativas ou categóricas: Estatística de Qui-Quadrado e o coeficiente de Contingência de Pearson; -->
-<!--     2) Para variáveis quantitativas: Diagrama de Dispersão e o Coeficiente de Correlação Linear de Pearson. -->
-
-
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Videoaula | Videoaula sobre a Aula 7 - Vídeo 1  |  [link](https://drive.google.com/file/d/199RNuven_68lYj1vup9v6EuB2IzXFnxl/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://drive.google.com/file/d/1VKCl8RDGw23hAamLM27LG1ir7xLm3QBE/view?usp=sharing)  | -->
-<!-- | Slides | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1TIoHctWDjDlCmmjEsl8fx9BLWXhPqlWo/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 7 | [link](https://drive.google.com/file/d/1-CPNf4iRZV6ZLgz69v9vIerxbop5OBBr/view?usp=sharing)  | -->
-<!-- | Script | Script do R a respeito das Aulas síncrona 7 |  [link](https://drive.google.com/file/d/14_YFgCF_IH3V1QNS3YEeJJBd-fqL7VZB/view?usp=sharing)  | -->
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1tqqQpLW_f68TKJjYFLJ78Y03OwcLnPAd/view?usp=sharing)   |
+| Script | Script em R dos exemplos dos slides da Aula 5 | [link](https://drive.google.com/file/d/1S2flWNns7fGl_Q3Iz18fnqkfqLnfEI2D/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 5 | [link](https://drive.google.com/file/d/1T0YrnpJzsDz1q-_vghHsGcLTCG78z8g7/view?usp=sharing)|
+| Exercícios | Lista de exercícios sobre a Aula 5 |  [link](https://drive.google.com/file/d/1PhfvTRILdzafUmQE1X2obFdHqZDw2sYf/view?usp=sharing)  |
 
 
-<!-- ## **Aula 8:** Introdução à probabilidade -->
+# **Aula 6:** Regressão Linear Simples
 
-<!-- - Para esta aula serão apresentados alguns conceitos de teoria da probabilidade, explorando os seguintes tópicos: experimento aleatório, espaço amostral, eventos, probabilidade condicional, teorema da probabilidade total e teorema de Bayes. -->
-
-
-<!-- | Atividades  |       Tipo de Atividade                                     | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Videoaula | Videoaula sobre a Aula 8 - Vídeo 1  |  [link](https://drive.google.com/file/d/1yNJFlxcP2-CHhtPHzldGPjYM8lWqj4vG/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 8 - Vídeo 2 |  [link](https://drive.google.com/file/d/15nEM6w0nxJlmxA-2hO0cK1u-CXALZdOQ/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://drive.google.com/file/d/1VVv5E3BY6VkZc1-9Psa7ORLypqku82B5/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://drive.google.com/file/d/1aAEgnEChR5ICrZjIouO5InS2ZGHTmP-2/view?usp=sharing)  | -->
-<!-- | Slides | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/11xOziWbflgb03HnSS65FiE0fNRDpGMyN/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 8 | [link](https://drive.google.com/file/d/1j3LJEgES5ncZ6dvzL7kEDagSshyh4YVt/view?usp=sharing) | -->
-
-<!-- ## **Aula 9:** Variáveis aleatórias -->
-
-<!-- - Para esta aula serão apresentados alguns conceitos a respeito de variáveis aleatórias, mais especificamente va discretas, e de seus principais parâmetros característicos (esperança, variância e desvio padrão) -->
+- Nessa aula será apresentada o modelo de regressão linear simples e algumas medidas para verificar a qualidade do ajuste
 
 
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Videoaula | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  | -->
-<!-- | Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 9 | [link](https://drive.google.com/file/d/1incQSO5YdjQcF1d8_jWkftAFotFNEsC-/view?usp=sharing)  | -->
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1SJnUgxPwTXbFD1uHbg9FWUJYWpStYH1j/view?usp=sharing)   |
+| Script | Script em R dos exemplos dos slides da Aula 6 | [link](https://drive.google.com/file/d/1SZ07mHyDC1kGlWlF3-2lqDJKpl2FnMJl/view?usp=sharing)|
+| Script | Script em Python dos exemplos dos slides da Aula 6 | [link](https://drive.google.com/file/d/1nEsW4UzTzF1cmFGSiBXKSoS2-0tEf9OY/view?usp=sharing)|
+| Exercícios | Lista de exercícios sobre a Aula 6 |  [link](https://drive.google.com/file/d/1EQG-GydLad1VzdgU4ejcAiPEtzpNkL6I/view?usp=sharing)  |
 
-<!-- `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')` -->
+# **Aula 7:** Números-Índice
 
-
-<!-- ## **Aula 10:** Distribuições de probabilidade para VA discretas -->
-
-<!-- - Para esta aula serão apresentados alguns modelos de probabilidade para variáveis aleatórias discretas, modelos de Bernoulli e modelo Binomial, e seus principais parâmetros característicos (esperança, variância e desvio padrão) -->
+- Nessa aula será introduzido o conceito dos números-índice simples e compostos.
 
 
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Videoaula | Videoaula sobre a Aula 10 - Vídeo 1  |  [link](https://drive.google.com/file/d/164ZnngH-G8eDTBDpRO6UKOHx8Yn-xW-k/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://drive.google.com/file/d/1yweWP5UolLKuSHnJXDSGKfr_lUD-VrFe/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://drive.google.com/file/d/1-FegzRhdQgJj_4KF4un7d__uOr6WcCYh/view?usp=sharing)  | -->
-<!-- | Slides | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 10 | [link](https://drive.google.com/file/d/1_w9pC70NYY3nD5zp_uyKpMsEfI5ng-_K/view?usp=sharing) | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 10 |  [link](https://drive.google.com/file/d/1Ogphfd4NUp_swvzR4bD1b3MaLu7kTfec/view?usp=sharing)  | -->
-
-
-<!-- ## **Aula 11:** Distribuições de probabilidade para VA contínuas -->
-
-<!-- - Para esta aula serão apresentados um modelo de probabilidade para variáveis aleatórias contínuas, o modelos de distribuição normal. -->
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Aula | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1A58yniLasfeTvUwza62eiIV1iRebUX6n/view?usp=sharing)   |
+| Exercícios | Lista de exercícios sobre a Aula 7 |  [link](https://drive.google.com/file/d/1wkfVKPOwTzElTB7qiRUESKAr3H5Ch6Xo/view?usp=sharing)  |
 
 
 
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Videoaula | Videoaula sobre a Aula 11 - Vídeo 1  |  [link](https://drive.google.com/file/d/1A8fkhbDF8Hx6iWPAzY2S9cEFH8e2ibIJ/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 11 - Vídeo 2 |  [link](https://drive.google.com/file/d/16hg4-vVst8ySrFJq9oDaMTKbhC756MDP/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 11 - Vídeo 3  |  [link](https://drive.google.com/file/d/1K_eqFn5_0qFPrsaNdq8RHy9YrQ5yL18T/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://drive.google.com/file/d/1JZ4cHhU63P9KwTt0qOZQdUqNcQyk0o_9/view?usp=sharing)  | -->
-<!-- | Slides | Slides sobre a Aula 11 | [link](https://drive.google.com/file/d/1t8HIqfSiWycyAtGZn-s_-JbyFNNpDIR5/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 11 | [link](https://drive.google.com/file/d/1mU22lJZhQb149iM5t67SXopG2eUv8UNb/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 11 | [link](https://drive.google.com/file/d/1YpH0azmQ5z2-RWVpu7m6BiLcxmyU256C/view?usp=sharing) | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 11 |  [link](https://drive.google.com/file/d/1AghAPAEj_EZA_AZTFudorvXE_z97dGx9/view?usp=sharing)  | -->
-
-
-<!-- **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing) -->
-
-<!-- ## **Aula 12:** Introdução à inferência estatística -->
-
-<!-- - Para esta aula serão apresentados alguns conceitos básicos para a intodução à inferência estatística. Apenas iremos explorar a elaboração do intervalo de confiança para a média populacional supondo a variância populacional conhecida. -->
-
-
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Videoaula | Videoaula sobre a Aula 12 - Vídeo 1  |  [link](https://drive.google.com/file/d/1LCqugFPFXshgiH3o3x38y9vAukQbuwWz/view?usp=sharing)  | -->
-<!-- | Videoaula | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://drive.google.com/file/d/1tnmvpRlA4emPvsGhsmIEITdKLj8e0iKf/view?usp=sharing)  | -->
-<!-- | Slides | Slides sobre a Aula 12 | [link](https://drive.google.com/file/d/1waFMcrBp4LZeVATVkISRn0c_H8QJwWKZ/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 12 | [link](https://drive.google.com/file/d/1abvCPMcirvNn-6QLHWbaTHmil_T0dAAW/view?usp=sharing) | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 12 | [link](https://drive.google.com/file/d/14o36ltHT2csUvTgvXjMIiJh63dcoZ4XV/view?usp=sharing) | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 12 |  [link](https://drive.google.com/file/d/1KNu1ksBK-W8xGIJoimTXJFSha7aNvwFi/view?usp=sharing)  | -->
-
-
-<!-- **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing) -->
